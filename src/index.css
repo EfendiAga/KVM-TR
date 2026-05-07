@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-barlow-condensed: "Barlow Condensed", sans-serif;
+}

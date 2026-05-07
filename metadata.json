@@ -1,0 +1,6 @@
+{
+  "name": "Desktop KVM",
+  "description": "A minimalist desktop KVM client/server interface using cm for layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
